@@ -1,6 +1,7 @@
 # mongodb-weather-graph
 
  practice for 2023 Smart Farm project
+
 todo
 
 1 store weatherdata
