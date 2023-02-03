@@ -6,6 +6,6 @@ todo
 
 1 store weatherdata
 
-2 develop api with fast api
+2 develop api with fast api(CRUD system)
 
 3 make web frontend with (dash or react.js)
